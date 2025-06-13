@@ -1,0 +1,7 @@
+rich
+sqlalchemy
+pygame
+openpyxl
+matplotlib
+pytest-cov
+pytest

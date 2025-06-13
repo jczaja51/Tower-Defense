@@ -1,0 +1,712 @@
+2025-05-17 20:42:02,963 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:26:20,068 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:26:31,212 [INFO] Gracz ZiQu postawił Magia Ognia na I3
+2025-05-17 22:26:31,223 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:26:54,839 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:37:31,061 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:37:41,629 [INFO] Gracz ZiQu postawił Lodowa na I8
+2025-05-17 22:37:41,641 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:37:48,193 [INFO] Gracz ZiQu ulepszył Laserowa na 8,6 do poziomu 2
+2025-05-17 22:37:48,197 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:37:54,988 [INFO] Gracz ZiQu ulepszył Laserowa na 8,6 do poziomu 3
+2025-05-17 22:37:54,993 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:38:25,115 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:40:33,373 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:40:41,534 [INFO] Gracz ZiQu postawił Ciężka Armatnia na H5
+2025-05-17 22:40:41,543 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:41:15,036 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:41:33,609 [INFO] Gracz ZiQu postawił Laserowa na D4
+2025-05-17 22:41:33,621 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:42:04,916 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:47:29,552 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:47:39,747 [INFO] Gracz ZiQu postawił Ciężka Armatnia na I10
+2025-05-17 22:47:39,758 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:48:11,947 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:49:49,818 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:50:09,145 [INFO] Zaktualizowano osiągnięcia gracza ZiQu: {'sto_pokonanych': True, 'bogacz': False, 'architekt': False}
+2025-05-17 22:50:30,052 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:50:52,669 [INFO] Gracz ZiQu postawił Lodowa na E2
+2025-05-17 22:50:52,676 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:53:32,507 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-17 22:53:53,924 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-17 23:03:07,073 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-17 23:07:17,291 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-17 23:07:25,061 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-17 23:08:38,040 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-17 23:17:13,729 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-17 23:40:06,896 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-17 23:40:16,825 [INFO] Zaktualizowano osiągnięcia gracza ZiQu: {'sto_pokonanych': True, 'bogacz': True, 'architekt': False}
+2025-05-17 23:40:45,616 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-18 16:39:32,346 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-18 17:08:30,711 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-18 17:08:30,711 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 1
+2025-05-18 17:08:40,246 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-18 17:08:40,246 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 1
+2025-05-18 17:09:53,179 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-18 17:29:10,605 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-18 17:29:10,606 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 1
+2025-05-18 17:31:04,588 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-18 17:31:04,588 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 1
+2025-05-18 17:33:15,369 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-18 17:33:15,370 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 1
+2025-05-18 17:34:15,433 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-18 17:34:15,434 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 1
+2025-05-18 17:35:07,381 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-18 17:35:07,381 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 1
+2025-05-18 17:38:37,620 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-18 17:38:37,620 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 1, slot: 2
+2025-05-18 17:38:46,911 [INFO] Zaktualizowano osiągnięcia gracza ZiQu: {'sto_pokonanych': False, 'bogacz': False, 'architekt': False}
+2025-05-18 17:38:46,917 [INFO] Gracz ZiQu postawił Laserowa na J10
+2025-05-18 17:38:46,925 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-18 17:38:54,192 [INFO] Gracz ZiQu postawił Laserowa na J5
+2025-05-18 17:38:54,197 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-18 17:39:15,150 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-18 17:39:36,377 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-18 17:39:38,017 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-18 17:39:38,808 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-18 17:39:39,459 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-18 18:08:04,895 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-18 18:08:14,069 [INFO] Gracz ZiQu postawił Laserowa na A1
+2025-05-18 18:08:14,081 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-18 18:08:22,593 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-18 18:12:50,999 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-18 18:13:34,721 [INFO] Zapisano grę: użytkownik=ZiQu, slot=3
+2025-05-18 18:13:34,721 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Hard, mapa: 1, slot: 3
+2025-05-18 18:19:38,220 [INFO] Zapisano grę: użytkownik=ZiQu, slot=4
+2025-05-18 18:19:38,221 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 1, slot: 4
+2025-05-18 18:20:30,276 [INFO] Zapisano grę: użytkownik=ZiQu, slot=4
+2025-05-18 18:20:30,276 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 2, slot: 4
+2025-05-18 18:22:55,164 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-18 18:22:55,164 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 3, slot: 1
+2025-05-18 18:23:04,331 [INFO] Gracz ZiQu postawił Laserowa na G6
+2025-05-18 18:23:04,341 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-18 18:23:26,334 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-18 18:29:21,479 [INFO] Zapisano grę: użytkownik=ZiQu, slot=3
+2025-05-18 18:29:21,480 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 2, slot: 3
+2025-05-18 18:29:48,926 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-18 18:29:48,926 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 2, slot: 1
+2025-05-18 18:30:05,062 [INFO] Gracz ZiQu postawił Laserowa na D7
+2025-05-18 18:30:05,071 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-18 18:41:11,520 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-18 18:41:13,937 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-18 18:41:13,938 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 15:37:44,549 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 15:38:25,913 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 15:42:37,685 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 15:43:24,185 [INFO] [LOAD MENU] Gracz: ZiQu anulował operację L – powrót do menu ładowania.
+2025-05-19 15:43:42,050 [INFO] [NEW GAME] Gracz: ZiQu anulował wybór slotu – powrót do menu.
+2025-05-19 15:43:57,904 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 15:48:15,513 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 15:48:25,405 [WARNING] [LOAD MENU] Gracz: ZiQu – Nieznana opcja: 1
+2025-05-19 15:50:20,001 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 15:50:38,307 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 15:50:49,056 [INFO] [LOAD MENU] Gracz: ZiQu anulował operację D – powrót do menu ładowania.
+2025-05-19 15:51:03,307 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 15:51:37,010 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 15:52:39,818 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 15:52:55,160 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 15:56:36,072 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 15:56:44,267 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 15:56:44,268 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 15:56:49,633 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 15:57:06,573 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 15:57:09,610 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-05-19 15:57:39,475 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 15:57:45,449 [INFO] [LOAD MENU] Gracz: ZiQu anulował operację L – powrót do menu ładowania.
+2025-05-19 15:58:33,127 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 15:58:36,358 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-05-19 15:58:49,161 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 16:01:50,966 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 16:02:55,116 [WARNING] [NEW GAME] Gracz: ZiQu podał nieprawidłowy numer slotu: qq
+2025-05-19 16:02:56,832 [INFO] [NEW GAME] Gracz: ZiQu anulował wybór slotu – powrót do menu.
+2025-05-19 16:03:00,096 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 16:03:12,655 [INFO] [NEW GAME] Gracz: ZiQu anulował wybór slotu – powrót do menu.
+2025-05-19 16:03:23,501 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 16:05:43,223 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 16:06:12,972 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-05-19 16:06:14,766 [INFO] [NEW GAME] Gracz: ZiQu, Slot: 2, Mapa: 2, Tryb: Easy
+2025-05-19 16:06:14,783 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-19 16:06:14,783 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 2, slot: 2
+2025-05-19 16:06:21,761 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 16:06:30,243 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-05-19 16:06:45,316 [INFO] [NEW GAME] Gracz: ZiQu anulował wybór slotu – powrót do menu.
+2025-05-19 16:09:25,266 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 16:09:29,434 [WARNING] [NEW GAME] Gracz: ZiQu próbował wybrać zajęty slot: 2
+2025-05-19 16:09:48,364 [INFO] [MAP] Gracz wybrał mapę: 1
+2025-05-19 16:12:11,152 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 16:12:19,889 [INFO] [MAP] Gracz wybrał mapę: 1
+2025-05-19 16:12:22,578 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 16:15:13,386 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 16:15:24,365 [INFO] [MAP] Gracz wybrał mapę: 3
+2025-05-19 16:20:05,562 [INFO] [MENU] Użytkownik ZiQu otworzył menu główne.
+2025-05-19 16:29:39,993 [INFO] [LOAD MENU] Gracz: ZiQu anulował operację L – powrót do menu ładowania.
+2025-05-19 16:29:58,552 [INFO] [LOAD MENU] Gracz: ZiQu anulował operację D – powrót do menu ładowania.
+2025-05-19 16:31:24,152 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-05-19 16:31:29,973 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-05-19 16:31:42,333 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-05-19 16:31:46,977 [INFO] [NEW GAME] Gracz: ZiQu, Slot: 3, Mapa: 2, Tryb: Hard
+2025-05-19 16:31:46,993 [INFO] Zapisano grę: użytkownik=ZiQu, slot=3
+2025-05-19 16:31:46,993 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Hard, mapa: 2, slot: 3
+2025-05-19 16:32:17,314 [INFO] [SOUND] Gracz ZiQu zaktualizował ustawienia dźwięku: SFX=0.5, Music=0.1
+2025-05-19 16:33:46,040 [INFO] [SOUND] Gracz ZiQu zaktualizował ustawienia dźwięku: SFX=0.05, Music=0.05
+2025-05-19 16:33:59,483 [INFO] [LOAD MENU] Gracz: ZiQu anulował operację L – powrót do menu ładowania.
+2025-05-19 16:34:03,748 [INFO] Wczytano grę: użytkownik=ZiQu, slot=3
+2025-05-19 16:34:03,748 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 3 – Wczytano zapis.
+2025-05-19 16:34:34,495 [INFO] [SOUND] Gracz ZiQu zaktualizował ustawienia dźwięku: SFX=0.02, Music=0.0
+2025-05-19 16:34:40,171 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 3 – Usunięto zapis.
+2025-05-19 16:39:46,067 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-05-19 16:41:31,236 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-05-19 16:43:21,150 [WARNING] [MENU] Nieznana opcja: `
+2025-05-19 16:43:27,694 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 16:43:27,694 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 16:45:39,457 [WARNING] [MENU] Nieznana opcja: l
+2025-05-19 16:45:40,955 [WARNING] [LOAD MENU] Gracz: ZiQu – Nieznana opcja: 1
+2025-05-19 16:45:44,614 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 16:45:44,614 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 16:45:54,403 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-05-19 16:45:55,602 [INFO] [NEW GAME] Gracz: ZiQu, Slot: 3, Mapa: 2, Tryb: Hard
+2025-05-19 16:45:55,619 [INFO] Zapisano grę: użytkownik=ZiQu, slot=3
+2025-05-19 16:45:55,619 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Hard, mapa: 2, slot: 3
+2025-05-19 16:46:29,482 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Usunięto zapis.
+2025-05-19 16:46:31,563 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 3 – Usunięto zapis.
+2025-05-19 16:46:35,591 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Usunięto zapis.
+2025-05-19 16:46:43,467 [INFO] [LOAD MENU] Gracz: ZiQu – brak zapisów.
+2025-05-19 16:47:01,495 [INFO] [LOAD MENU] Gracz: ZiQu – brak zapisów.
+2025-05-19 16:47:07,638 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-05-19 16:47:08,879 [INFO] [NEW GAME] Gracz: ZiQu, Slot: 1, Mapa: 2, Tryb: Hard
+2025-05-19 16:47:08,896 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-19 16:47:08,896 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Hard, mapa: 2, slot: 1
+2025-05-19 16:48:45,304 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 16:48:45,304 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 16:51:41,747 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 16:51:41,748 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 16:51:58,994 [INFO] Gracz ZiQu postawił Laserowa na N16
+2025-05-19 16:51:59,006 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-19 16:52:34,032 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-19 16:53:35,791 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-19 16:53:38,015 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:00:31,325 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:00:31,325 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:20:49,635 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:20:49,635 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:21:27,084 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:21:27,084 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:22:05,201 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:22:05,201 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:22:18,402 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:22:18,402 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:22:47,610 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:22:47,610 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:22:53,177 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:22:53,178 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:23:06,124 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:23:06,124 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:24:23,164 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:24:23,164 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:33:13,703 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:33:13,704 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:34:53,836 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:34:53,837 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:37:44,460 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:37:44,460 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:41:40,389 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:41:40,390 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:42:38,233 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:42:38,233 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:44:43,575 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:44:43,576 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:45:11,922 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:45:11,922 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:46:29,599 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:46:29,600 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:47:18,131 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:47:18,131 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:48:10,694 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:48:10,694 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:48:26,530 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:48:26,531 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-19 17:48:35,546 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-19 17:48:35,547 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-20 16:16:08,904 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-20 16:16:08,905 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-20 16:16:16,873 [INFO] [NEW GAME] Gracz: ZiQu anulował wybór slotu – powrót do menu.
+2025-05-20 17:38:42,786 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-20 17:38:42,787 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-20 17:38:53,753 [INFO] Gracz ZiQu postawił Laserowa na Q10
+2025-05-20 17:38:53,764 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-20 17:39:34,992 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-20 17:39:41,148 [WARNING] [MENU] Nieznana opcja: l
+2025-05-20 17:39:42,619 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-20 17:39:42,620 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-20 17:39:52,542 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-05-20 18:51:39,419 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-05-20 18:51:51,877 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-05-20 18:51:54,408 [INFO] [NEW GAME] Gracz: ZiQu, Slot: 2, Mapa: 2, Tryb: Easy
+2025-05-20 18:51:54,427 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-20 18:51:54,427 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 2, slot: 2
+2025-05-20 18:57:22,360 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-20 18:57:22,361 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-21 15:37:34,473 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-05-21 15:37:36,983 [INFO] [NEW GAME] Gracz: ZiQu anulował wybór slotu – powrót do menu.
+2025-05-21 21:14:25,764 [INFO] [LOAD MENU] Gracz: ZiQu anulował operację L – powrót do menu ładowania.
+2025-05-21 21:14:28,351 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-21 21:14:28,351 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-21 21:40:46,201 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-21 21:40:46,203 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-22 16:11:18,006 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-22 16:11:18,007 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-22 16:11:28,207 [INFO] Gracz ZiQu postawił Laserowa na Q7
+2025-05-22 16:11:28,214 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-22 16:11:40,939 [INFO] Gracz ZiQu postawił Laserowa na Q13
+2025-05-22 16:11:40,945 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-22 16:12:04,596 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-22 16:12:33,527 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-22 16:12:51,741 [INFO] Gracz ZiQu postawił Magia Ognia na O8
+2025-05-22 16:12:51,746 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-22 16:13:14,998 [INFO] Gracz ZiQu postawił Lodowa na R5
+2025-05-22 16:13:15,003 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-22 16:13:43,583 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-22 16:17:36,904 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-22 16:18:08,247 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-22 16:18:08,248 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-22 16:18:08,879 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-22 16:18:58,247 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-22 16:18:59,673 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-22 16:19:25,280 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-22 16:19:25,281 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-29 21:36:07,306 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-29 21:36:07,307 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-29 21:36:41,440 [INFO] Gracz ZiQu postawił Laserowa na Q4
+2025-05-29 21:36:41,451 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-29 21:37:12,337 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-29 21:51:51,875 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-29 21:51:51,877 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-29 21:52:08,184 [INFO] Gracz ZiQu postawił Laserowa na Q3
+2025-05-29 21:52:08,195 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-29 21:52:17,625 [INFO] Gracz ZiQu postawił Magia Ognia na O5
+2025-05-29 21:52:17,629 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-29 21:52:37,599 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-29 21:54:16,086 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-29 21:54:23,507 [INFO] [NEW GAME] Gracz: ZiQu anulował wybór slotu – powrót do menu.
+2025-05-29 21:54:26,537 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-29 21:54:26,537 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-29 21:56:58,612 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-29 21:56:58,615 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-30 14:03:24,623 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-30 14:03:24,624 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-30 14:04:11,185 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-30 14:11:59,961 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-30 14:11:59,962 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-30 14:12:23,883 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-30 14:18:23,671 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-30 14:18:23,672 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-30 14:18:56,916 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-30 14:50:43,887 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-05-30 14:50:43,887 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-05-30 14:50:51,114 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Usunięto zapis.
+2025-05-30 14:51:00,871 [WARNING] [MENU] Nieznana opcja: l
+2025-05-30 14:51:02,124 [INFO] [NEW GAME] Gracz: ZiQu anulował wybór slotu – powrót do menu.
+2025-05-30 14:51:07,617 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-30 14:51:07,617 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-30 15:08:44,056 [INFO] [MENU] Gracz Zi_Qu zakończył program.
+2025-05-30 15:15:44,391 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-30 15:15:44,392 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-30 15:15:56,295 [WARNING] [NEW GAME] Gracz: ZiQu podał nieprawidłowy numer slotu: l
+2025-05-30 15:16:04,054 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-05-30 15:16:06,510 [INFO] [NEW GAME] Gracz: ZiQu, Slot: 1, Mapa: 2, Tryb: Hard
+2025-05-30 15:16:06,528 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-30 15:16:06,528 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Hard, mapa: 2, slot: 1
+2025-05-30 15:16:34,976 [INFO] Gracz ZiQu postawił Laserowa na F13
+2025-05-30 15:16:34,986 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-30 15:17:23,606 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-30 15:18:11,913 [INFO] Zapisano grę: użytkownik=ZiQu, slot=1
+2025-05-30 15:18:23,453 [INFO] [MENU] Gracz ZiQu zakończył program.
+2025-05-30 15:20:31,295 [INFO] [MAP] Gracz wybrał mapę: 1
+2025-05-30 15:20:33,456 [INFO] [NEW GAME] Gracz: ZiQu, Slot: 3, Mapa: 1, Tryb: Hard
+2025-05-30 15:20:33,469 [INFO] Zapisano grę: użytkownik=ZiQu, slot=3
+2025-05-30 15:20:33,469 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Hard, mapa: 1, slot: 3
+2025-05-30 15:20:46,812 [INFO] Zapisano grę: użytkownik=ZiQu, slot=3
+2025-05-30 15:21:00,813 [INFO] [MENU] Gracz ZiQu zakończył program.
+2025-05-30 15:21:08,727 [INFO] Wczytano grę: użytkownik=ZiQu, slot=3
+2025-05-30 15:21:08,727 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 3 – Wczytano zapis.
+2025-05-30 15:21:14,016 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 3 – Usunięto zapis.
+2025-05-30 15:35:02,025 [INFO] [MENU] Gracz ZiQu zakończył program.
+2025-05-30 15:35:09,075 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-30 15:35:09,075 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-30 15:35:16,413 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-30 15:35:16,413 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-30 15:36:00,427 [WARNING] [NEW GAME] Gracz: ZiQu podał nieprawidłowy numer slotu: l
+2025-05-30 15:36:04,834 [INFO] [MAP] Gracz anulował wybór mapy (powrót do menu)
+2025-05-30 15:36:10,192 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-05-30 15:36:10,974 [INFO] [NEW GAME] Gracz: ZiQu, Slot: 3, Mapa: 2, Tryb: Easy
+2025-05-30 15:36:10,990 [INFO] Zapisano grę: użytkownik=ZiQu, slot=3
+2025-05-30 15:36:10,990 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 2, slot: 3
+2025-05-30 15:36:37,662 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-30 15:36:37,662 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-30 15:36:48,508 [INFO] Zaktualizowano osiągnięcia gracza ZiQu: {'sto_pokonanych': True, 'bogacz': False, 'architekt': False}
+2025-05-30 15:37:11,561 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-30 15:41:47,810 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-30 15:41:47,811 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-30 15:42:00,108 [INFO] Wczytano grę: użytkownik=ZiQu, slot=3
+2025-05-30 15:42:00,108 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 3 – Wczytano zapis.
+2025-05-30 15:42:44,149 [INFO] Wczytano grę: użytkownik=ZiQu, slot=3
+2025-05-30 15:42:44,150 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 3 – Wczytano zapis.
+2025-05-30 15:49:52,732 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-05-30 15:53:58,239 [INFO] [MENU] Gracz ZiQu zakończył program.
+2025-05-30 15:54:05,126 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-30 15:54:05,127 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-30 15:54:16,427 [INFO] Wczytano grę: użytkownik=ZiQu, slot=3
+2025-05-30 15:54:16,427 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 3 – Wczytano zapis.
+2025-05-30 16:07:38,166 [INFO] Wczytano grę: użytkownik=ZiQu, slot=3
+2025-05-30 16:07:38,168 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 3 – Wczytano zapis.
+2025-05-30 16:07:42,947 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-30 16:07:42,948 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-30 16:08:12,524 [INFO] [MENU] Gracz ZiQu zakończył program.
+2025-05-30 16:08:18,954 [INFO] [MAP] Gracz wybrał mapę: 3
+2025-05-30 16:08:20,018 [INFO] [NEW GAME] Gracz: ZiQu, Slot: 5, Mapa: 3, Tryb: Easy
+2025-05-30 16:08:20,034 [INFO] Zapisano grę: użytkownik=ZiQu, slot=5
+2025-05-30 16:08:20,034 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 3, slot: 5
+2025-05-30 16:08:33,833 [INFO] Zaktualizowano osiągnięcia gracza ZiQu: {'sto_pokonanych': False, 'bogacz': False, 'architekt': False}
+2025-05-30 16:08:33,839 [INFO] Gracz ZiQu postawił Laserowa na J9
+2025-05-30 16:08:33,846 [INFO] Zapisano grę: użytkownik=ZiQu, slot=5
+2025-05-30 16:08:41,625 [INFO] Gracz ZiQu postawił Laserowa na F5
+2025-05-30 16:08:41,631 [INFO] Zapisano grę: użytkownik=ZiQu, slot=5
+2025-05-30 16:09:04,961 [INFO] Zapisano grę: użytkownik=ZiQu, slot=5
+2025-05-30 16:09:35,273 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-30 16:09:35,273 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-30 16:11:09,316 [WARNING] [LOAD MENU] Gracz: ZiQu – Nieznana opcja: l4
+2025-05-30 16:11:12,921 [INFO] Wczytano grę: użytkownik=ZiQu, slot=5
+2025-05-30 16:11:12,921 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 5 – Wczytano zapis.
+2025-05-30 16:12:55,775 [INFO] Wczytano grę: użytkownik=ZiQu, slot=5
+2025-05-30 16:12:55,777 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 5 – Wczytano zapis.
+2025-05-30 16:21:14,602 [INFO] [MENU] Gracz ZiQu zakończył program.
+2025-05-30 16:21:23,004 [INFO] Wczytano grę: użytkownik=ZiQu, slot=5
+2025-05-30 16:21:23,005 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 5 – Wczytano zapis.
+2025-05-30 16:21:37,426 [INFO] Wczytano grę: użytkownik=ZiQu, slot=5
+2025-05-30 16:21:37,427 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 5 – Wczytano zapis.
+2025-05-30 16:27:00,450 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 5 – Usunięto zapis.
+2025-05-30 16:27:07,911 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-05-30 16:27:12,896 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-05-30 16:27:13,688 [INFO] [NEW GAME] Gracz: ZiQu, Slot: 5, Mapa: 2, Tryb: Easy
+2025-05-30 16:27:13,702 [INFO] Zapisano grę: użytkownik=ZiQu, slot=5
+2025-05-30 16:27:13,702 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Easy, mapa: 2, slot: 5
+2025-05-30 16:28:52,105 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-05-30 16:28:54,132 [WARNING] [MENU] Nieznana opcja: [a
+2025-05-30 16:33:20,267 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-05-30 16:37:53,969 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-05-30 16:49:37,630 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 5 – Usunięto zapis.
+2025-05-30 16:50:17,421 [WARNING] [LOAD MENU] Gracz: ZiQu – Nieprawidłowy numer slotu: 5
+2025-05-30 16:50:20,802 [INFO] [LOAD MENU] Gracz: ZiQu anulował operację L – powrót do menu ładowania.
+2025-05-30 16:50:23,284 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-05-30 16:50:28,859 [INFO] [MAP] Gracz anulował wybór mapy (powrót do menu)
+2025-05-30 22:51:40,430 [INFO] Wczytano grę: użytkownik=ZiQu, slot=3
+2025-05-30 22:51:40,430 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 3 – Wczytano zapis.
+2025-05-30 22:51:48,180 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-30 22:51:48,180 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-30 22:51:58,750 [INFO] Zaktualizowano osiągnięcia gracza ZiQu: {'sto_pokonanych': True, 'bogacz': False, 'architekt': False}
+2025-05-30 22:51:58,758 [INFO] Gracz ZiQu postawił Ciężka Armatnia na R4
+2025-05-30 22:51:58,765 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-30 22:52:09,528 [INFO] Gracz ZiQu postawił Lodowa na O4
+2025-05-30 22:52:09,534 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-30 22:53:31,698 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-30 22:53:31,701 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-30 22:54:09,640 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-30 23:02:27,773 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-30 23:02:27,774 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-30 23:05:23,478 [INFO] Wyeksportowano statystyki gracza ZiQu do pliku statystyki.csv
+2025-05-30 23:05:23,486 [INFO] Wyeksportowano statystyki gracza ZiQu do pliku statystyki.xlsx
+2025-05-31 10:00:32,173 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-31 10:00:32,175 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-31 10:00:54,493 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-31 10:01:29,586 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-31 10:01:35,737 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-05-31 21:24:53,872 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-05-31 21:24:53,874 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-05-31 21:25:36,594 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-01 21:32:21,460 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-01 21:32:21,460 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-01 21:33:06,740 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-01 21:38:51,133 [WARNING] [LOAD MENU] Gracz: wripya – Nieprawidłowy numer slotu: 1
+2025-06-01 21:38:54,942 [INFO] [LOAD MENU] Gracz: wripya anulował operację L – powrót do menu ładowania.
+2025-06-01 21:38:57,697 [INFO] [LOAD MENU] Gracz: wripya wrócił do menu głównego z menu ładowania.
+2025-06-01 21:39:06,454 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-06-01 21:49:59,018 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-01 21:49:59,019 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-01 22:17:14,782 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-01 22:17:14,786 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-02 15:26:50,545 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-02 15:26:50,545 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-02 15:30:04,818 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-02 15:30:04,818 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-02 15:30:44,872 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-02 15:30:44,873 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-02 15:31:32,574 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-02 16:16:56,226 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-02 16:16:56,227 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-02 16:17:23,933 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-02 17:55:00,710 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-02 17:55:00,713 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-02 18:03:33,872 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-02 18:03:33,873 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-02 18:04:48,913 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-02 18:04:48,914 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-02 18:05:39,583 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-02 18:09:23,536 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-02 18:09:23,538 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-02 18:10:16,669 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-02 18:16:23,431 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-02 18:16:23,436 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-02 18:26:53,893 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-02 18:26:53,893 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-02 18:54:36,578 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-02 18:54:36,578 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-02 18:55:34,154 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-02 18:55:54,110 [INFO] Zaktualizowano osiągnięcia gracza ZiQu: {'sto_pokonanych': True, 'bogacz': True, 'architekt': False}
+2025-06-02 18:55:54,116 [INFO] Gracz ZiQu postawił Strzelająca na O3
+2025-06-02 18:55:54,123 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-02 18:56:55,926 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-02 18:57:57,734 [INFO] Gracz ZiQu ulepszył Laserowa na 16,6 do poziomu 2
+2025-06-02 18:57:57,739 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-02 18:58:21,625 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-02 18:58:21,625 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-02 18:59:36,508 [WARNING] [LOAD MENU] Gracz: ZiQu – Nieznana opcja: 3
+2025-06-02 18:59:38,889 [INFO] Wczytano grę: użytkownik=ZiQu, slot=3
+2025-06-02 18:59:38,889 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 3 – Wczytano zapis.
+2025-06-02 18:59:47,657 [INFO] Zaktualizowano osiągnięcia gracza ZiQu: {'sto_pokonanych': False, 'bogacz': False, 'architekt': False}
+2025-06-02 18:59:47,662 [INFO] Gracz ZiQu postawił Strzelająca na G5
+2025-06-02 18:59:47,666 [INFO] Zapisano grę: użytkownik=ZiQu, slot=3
+2025-06-02 19:01:25,937 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-02 19:01:25,937 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-02 19:18:50,213 [INFO] [LOAD MENU] Gracz: ZiQu wrócił do menu głównego z menu ładowania.
+2025-06-02 19:18:55,862 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-06-02 19:18:57,870 [INFO] [NEW GAME] Gracz: ZiQu, Slot: 5, Mapa: 2, Tryb: Hard
+2025-06-02 19:18:57,888 [INFO] Zapisano grę: użytkownik=ZiQu, slot=5
+2025-06-02 19:18:57,888 [INFO] Nowa gra utworzona dla gracza ZiQu, tryb: Hard, mapa: 2, slot: 5
+2025-06-02 19:22:52,343 [INFO] [LOAD MENU] Gracz: wripya wrócił do menu głównego z menu ładowania.
+2025-06-02 19:22:57,062 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-06-02 19:23:00,440 [INFO] [NEW GAME] Gracz: wripya, Slot: 1, Mapa: 2, Tryb: Easy
+2025-06-02 19:23:00,453 [INFO] Zapisano grę: użytkownik=wripya, slot=1
+2025-06-02 19:23:00,453 [INFO] Nowa gra utworzona dla gracza wripya, tryb: Easy, mapa: 2, slot: 1
+2025-06-02 19:23:14,044 [INFO] Gracz wripya postawił Laserowa na J7
+2025-06-02 19:23:14,053 [INFO] Zapisano grę: użytkownik=wripya, slot=1
+2025-06-02 19:23:29,328 [INFO] Gracz wripya postawił Laserowa na I10
+2025-06-02 19:23:29,333 [INFO] Zapisano grę: użytkownik=wripya, slot=1
+2025-06-02 19:24:11,787 [INFO] Zapisano grę: użytkownik=wripya, slot=1
+2025-06-02 19:24:39,673 [WARNING] [NEW GAME] Gracz: Lezar podał nieprawidłowy numer slotu: l
+2025-06-02 19:24:42,587 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-06-02 19:24:43,651 [INFO] [NEW GAME] Gracz: Lezar, Slot: 1, Mapa: 2, Tryb: Easy
+2025-06-02 19:24:43,668 [INFO] Zapisano grę: użytkownik=Lezar, slot=1
+2025-06-02 19:24:43,668 [INFO] Nowa gra utworzona dla gracza Lezar, tryb: Easy, mapa: 2, slot: 1
+2025-06-02 19:25:02,598 [INFO] Gracz Lezar postawił Laserowa na E6
+2025-06-02 19:25:02,604 [INFO] Zapisano grę: użytkownik=Lezar, slot=1
+2025-06-02 19:25:08,905 [INFO] Gracz Lezar postawił Laserowa na D6
+2025-06-02 19:25:08,910 [INFO] Zapisano grę: użytkownik=Lezar, slot=1
+2025-06-02 19:25:17,742 [INFO] Zapisano grę: użytkownik=Lezar, slot=1
+2025-06-02 19:25:26,662 [INFO] Gracz Lezar postawił Laserowa na D10
+2025-06-02 19:25:26,667 [INFO] Zapisano grę: użytkownik=Lezar, slot=1
+2025-06-02 19:25:37,755 [INFO] Zapisano grę: użytkownik=Lezar, slot=1
+2025-06-02 19:25:52,198 [INFO] Gracz Lezar postawił Laserowa na K19
+2025-06-02 19:25:52,203 [INFO] Zapisano grę: użytkownik=Lezar, slot=1
+2025-06-02 19:26:03,098 [INFO] Zapisano grę: użytkownik=Lezar, slot=1
+2025-06-02 19:26:13,966 [INFO] Zapisano grę: użytkownik=Lezar, slot=1
+2025-06-02 19:26:40,920 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-06-02 19:26:42,333 [INFO] [NEW GAME] Gracz: Łakoć, Slot: 1, Mapa: 2, Tryb: Easy
+2025-06-02 19:26:42,351 [INFO] Zapisano grę: użytkownik=Łakoć, slot=1
+2025-06-02 19:26:42,351 [INFO] Nowa gra utworzona dla gracza Łakoć, tryb: Easy, mapa: 2, slot: 1
+2025-06-02 19:26:58,918 [INFO] Gracz Łakoć postawił Lodowa na R5
+2025-06-02 19:26:58,926 [INFO] Zapisano grę: użytkownik=Łakoć, slot=1
+2025-06-02 19:27:06,779 [INFO] Gracz Łakoć postawił Laserowa na R13
+2025-06-02 19:27:06,784 [INFO] Zapisano grę: użytkownik=Łakoć, slot=1
+2025-06-02 19:27:25,061 [INFO] Zapisano grę: użytkownik=Łakoć, slot=1
+2025-06-02 19:27:38,024 [INFO] Zapisano grę: użytkownik=Łakoć, slot=1
+2025-06-02 19:34:14,494 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-06-02 19:34:28,862 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-06-02 19:34:46,713 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-06-02 19:35:49,780 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-06-02 19:36:20,882 [INFO] [NEW GAME] Gracz: Łakoć, Slot: 2, Mapa: 2, Tryb: Custom
+2025-06-02 19:36:20,900 [INFO] Zapisano grę: użytkownik=Łakoć, slot=2
+2025-06-02 19:36:20,900 [INFO] Nowa gra utworzona dla gracza Łakoć, tryb: Custom, mapa: 2, slot: 2
+2025-06-02 19:36:34,087 [INFO] Gracz Łakoć postawił Laserowa na P4
+2025-06-02 19:36:34,098 [INFO] Zapisano grę: użytkownik=Łakoć, slot=2
+2025-06-02 19:36:45,830 [INFO] Gracz Łakoć postawił Laserowa na P6
+2025-06-02 19:36:45,834 [INFO] Zapisano grę: użytkownik=Łakoć, slot=2
+2025-06-02 19:36:59,822 [INFO] Gracz Łakoć postawił Laserowa na M18
+2025-06-02 19:36:59,827 [INFO] Zapisano grę: użytkownik=Łakoć, slot=2
+2025-06-02 19:37:14,248 [INFO] Zapisano grę: użytkownik=Łakoć, slot=2
+2025-06-02 19:37:23,654 [INFO] Gracz Łakoć postawił Laserowa na Q12
+2025-06-02 19:37:23,659 [INFO] Zapisano grę: użytkownik=Łakoć, slot=2
+2025-06-02 19:37:35,787 [INFO] Zapisano grę: użytkownik=Łakoć, slot=2
+2025-06-02 19:37:50,805 [INFO] Zapisano grę: użytkownik=Łakoć, slot=2
+2025-06-02 19:38:05,699 [INFO] Zapisano grę: użytkownik=Łakoć, slot=2
+2025-06-05 15:41:10,614 [INFO] [LOAD MENU] Gracz: Niko wrócił do menu głównego z menu ładowania.
+2025-06-05 15:41:17,217 [INFO] [NEW GAME] Gracz: Niko anulował wybór slotu – powrót do menu.
+2025-06-05 15:41:33,559 [INFO] [SOUND] Gracz Niko zaktualizował ustawienia dźwięku: SFX=1.0, Music=1.0
+2025-06-05 15:41:45,958 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-06-05 15:41:48,329 [INFO] [NEW GAME] Gracz: Niko, Slot: 1, Mapa: 2, Tryb: Hard
+2025-06-05 15:41:48,345 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:41:48,345 [INFO] Nowa gra utworzona dla gracza Niko, tryb: Hard, mapa: 2, slot: 1
+2025-06-05 15:42:13,934 [INFO] Gracz Niko postawił Laserowa na G4
+2025-06-05 15:42:13,945 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:43:28,313 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:44:09,364 [INFO] Gracz Niko postawił Laserowa na F14
+2025-06-05 15:44:09,370 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:44:52,725 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:45:32,324 [INFO] Gracz Niko postawił Laserowa na D8
+2025-06-05 15:45:32,330 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:45:58,834 [INFO] Gracz Niko postawił Laserowa na J23
+2025-06-05 15:45:58,839 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:46:23,558 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:46:43,782 [INFO] Gracz Niko postawił Ciężka Armatnia na F7
+2025-06-05 15:46:43,787 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:47:05,412 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:47:34,313 [INFO] Gracz Niko postawił Magia Ognia na F4
+2025-06-05 15:47:34,320 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:47:58,145 [INFO] Gracz Niko postawił Lodowa na G7
+2025-06-05 15:47:58,150 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:48:18,693 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:48:36,036 [INFO] Gracz Niko postawił Laserowa na H7
+2025-06-05 15:48:36,041 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:48:47,525 [INFO] Gracz Niko postawił Laserowa na F5
+2025-06-05 15:48:47,530 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:49:03,854 [INFO] Gracz Niko postawił Laserowa na C10
+2025-06-05 15:49:03,859 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:49:21,582 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:50:09,950 [INFO] Gracz Niko ulepszył Laserowa na 6,3 do poziomu 2
+2025-06-05 15:50:09,955 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:50:15,272 [INFO] Gracz Niko ulepszył Laserowa na 5,13 do poziomu 2
+2025-06-05 15:50:15,277 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:50:19,159 [INFO] Gracz Niko ulepszył Laserowa na 3,7 do poziomu 2
+2025-06-05 15:50:19,162 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-05 15:50:36,703 [INFO] Zapisano grę: użytkownik=Niko, slot=1
+2025-06-11 17:27:30,637 [INFO] [SOUND] Gracz ZiQu zaktualizował ustawienia dźwięku: SFX=0.1, Music=0.05
+2025-06-11 17:27:38,516 [INFO] [SOUND] Gracz ZiQu zaktualizował ustawienia dźwięku: SFX=0.01, Music=0.01
+2025-06-11 17:28:02,206 [INFO] Wczytano grę: użytkownik=ZiQu, slot=3
+2025-06-11 17:28:02,207 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 3 – Wczytano zapis.
+2025-06-11 17:28:25,616 [INFO] Wczytano grę: użytkownik=ZiQu, slot=3
+2025-06-11 17:28:25,618 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 3 – Wczytano zapis.
+2025-06-11 17:28:37,674 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-11 17:28:37,674 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-11 17:40:47,442 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-11 17:40:47,446 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-11 17:52:36,572 [WARNING] [MENU] Nieznana opcja: 12
+2025-06-11 17:52:39,106 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-11 17:52:39,107 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-11 19:57:32,841 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-11 19:57:32,843 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-11 19:59:15,729 [WARNING] [LOAD MENU] Gracz: ZiQu – Nieznana opcja: l\
+2025-06-11 19:59:18,367 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-11 19:59:18,367 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-11 19:59:29,327 [INFO] Zaktualizowano osiągnięcia gracza ZiQu: {'sto_pokonanych': True, 'bogacz': True, 'architekt': False}
+2025-06-11 19:59:42,484 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-11 19:59:42,484 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-11 20:00:37,415 [INFO] Gracz ZiQu ulepszył Laserowa na 16,6 do poziomu 3
+2025-06-11 20:00:37,428 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:00:43,319 [INFO] Gracz ZiQu ulepszył Laserowa na 16,6 do poziomu 4
+2025-06-11 20:00:43,324 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:00:45,623 [INFO] Gracz ZiQu ulepszył Laserowa na 16,6 do poziomu 5
+2025-06-11 20:00:45,627 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:00:47,480 [INFO] Gracz ZiQu ulepszył Laserowa na 16,6 do poziomu 6
+2025-06-11 20:00:47,484 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:00:49,267 [INFO] Gracz ZiQu ulepszył Laserowa na 16,6 do poziomu 7
+2025-06-11 20:00:49,272 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:00:51,194 [INFO] Gracz ZiQu ulepszył Laserowa na 16,6 do poziomu 8
+2025-06-11 20:00:51,197 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:00:52,960 [INFO] Gracz ZiQu ulepszył Laserowa na 16,6 do poziomu 9
+2025-06-11 20:00:52,964 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:00:57,396 [INFO] Gracz ZiQu ulepszył Laserowa na 16,6 do poziomu 10
+2025-06-11 20:00:57,400 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:01:11,179 [INFO] Zaktualizowano osiągnięcia gracza ZiQu: {'sto_pokonanych': True, 'bogacz': True, 'architekt': False}
+2025-06-11 20:01:11,179 [INFO] Gracz ZiQu postawił Magia Ognia na P9
+2025-06-11 20:01:11,184 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:01:26,447 [INFO] Gracz ZiQu ulepszył Laserowa na 16,12 do poziomu 2
+2025-06-11 20:01:26,451 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:01:28,790 [INFO] Gracz ZiQu ulepszył Laserowa na 16,12 do poziomu 3
+2025-06-11 20:01:28,795 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:01:30,523 [INFO] Gracz ZiQu ulepszył Laserowa na 16,12 do poziomu 4
+2025-06-11 20:01:30,527 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:01:32,393 [INFO] Gracz ZiQu ulepszył Laserowa na 16,12 do poziomu 5
+2025-06-11 20:01:32,398 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:01:33,964 [INFO] Gracz ZiQu ulepszył Laserowa na 16,12 do poziomu 6
+2025-06-11 20:01:33,969 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:01:35,549 [INFO] Gracz ZiQu ulepszył Laserowa na 16,12 do poziomu 7
+2025-06-11 20:01:35,554 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:01:37,487 [INFO] Gracz ZiQu ulepszył Laserowa na 16,12 do poziomu 8
+2025-06-11 20:01:37,491 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:01:39,316 [INFO] Gracz ZiQu ulepszył Laserowa na 16,12 do poziomu 9
+2025-06-11 20:01:39,321 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:01:41,259 [INFO] Gracz ZiQu ulepszył Laserowa na 16,12 do poziomu 10
+2025-06-11 20:01:41,262 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:01:42,993 [INFO] Gracz ZiQu ulepszył Laserowa na 16,12 do poziomu 11
+2025-06-11 20:01:42,998 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:01:45,259 [INFO] Gracz ZiQu ulepszył Laserowa na 16,12 do poziomu 12
+2025-06-11 20:01:45,264 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:01:47,498 [INFO] Gracz ZiQu ulepszył Laserowa na 16,12 do poziomu 13
+2025-06-11 20:01:47,502 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:02:09,660 [INFO] Gracz ZiQu ulepszył Laserowa na 16,12 do poziomu 14
+2025-06-11 20:02:09,664 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:02:11,107 [INFO] Gracz ZiQu ulepszył Laserowa na 16,12 do poziomu 15
+2025-06-11 20:02:11,110 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:02:12,792 [INFO] Gracz ZiQu ulepszył Laserowa na 16,12 do poziomu 16
+2025-06-11 20:02:12,796 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:03:26,550 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:03:49,550 [INFO] Wczytano grę: użytkownik=ZiQu, slot=1
+2025-06-11 20:03:49,551 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 1 – Wczytano zapis.
+2025-06-11 20:03:55,773 [INFO] Wczytano grę: użytkownik=ZiQu, slot=3
+2025-06-11 20:03:55,773 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 3 – Wczytano zapis.
+2025-06-11 20:11:19,453 [INFO] Wczytano grę: użytkownik=ZiQu, slot=3
+2025-06-11 20:11:19,456 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 3 – Wczytano zapis.
+2025-06-11 20:15:43,597 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:15:43,602 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-11 20:17:02,124 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:17:02,125 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-11 20:17:55,000 [INFO] [MAP] Gracz wybrał mapę: 2
+2025-06-11 20:17:55,885 [INFO] [NEW GAME] Gracz: elo, Slot: 1, Mapa: 2, Tryb: Easy
+2025-06-11 20:17:55,899 [INFO] Zapisano grę: użytkownik=elo, slot=1
+2025-06-11 20:17:55,899 [INFO] Nowa gra utworzona dla gracza elo, tryb: Easy, mapa: 2, slot: 1
+2025-06-11 20:21:42,621 [INFO] Gracz ZiQu ulepszył Laserowa na 16,3 do poziomu 2
+2025-06-11 20:21:42,628 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:21:44,560 [INFO] Gracz ZiQu ulepszył Laserowa na 16,3 do poziomu 3
+2025-06-11 20:21:44,562 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:21:46,351 [INFO] Gracz ZiQu ulepszył Laserowa na 16,3 do poziomu 4
+2025-06-11 20:21:46,354 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:21:48,085 [INFO] Gracz ZiQu ulepszył Laserowa na 16,3 do poziomu 5
+2025-06-11 20:21:48,087 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:21:49,589 [INFO] Gracz ZiQu ulepszył Laserowa na 16,3 do poziomu 6
+2025-06-11 20:21:49,591 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:21:51,474 [INFO] Gracz ZiQu ulepszył Laserowa na 16,3 do poziomu 7
+2025-06-11 20:21:51,475 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:21:59,222 [INFO] Gracz ZiQu ulepszył Laserowa na 16,2 do poziomu 2
+2025-06-11 20:21:59,224 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:22:00,746 [INFO] Gracz ZiQu ulepszył Laserowa na 16,2 do poziomu 3
+2025-06-11 20:22:00,748 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:22:02,081 [INFO] Gracz ZiQu ulepszył Laserowa na 16,2 do poziomu 4
+2025-06-11 20:22:02,083 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:22:03,793 [INFO] Gracz ZiQu ulepszył Laserowa na 16,2 do poziomu 5
+2025-06-11 20:22:03,796 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:22:06,335 [INFO] Gracz ZiQu ulepszył Laserowa na 16,2 do poziomu 6
+2025-06-11 20:22:06,336 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:22:07,831 [INFO] Gracz ZiQu ulepszył Laserowa na 16,2 do poziomu 7
+2025-06-11 20:22:07,833 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:23:16,585 [INFO] [SOUND] Gracz ZiQu zaktualizował ustawienia dźwięku: SFX=0.01, Music=0.01
+2025-06-11 20:23:21,019 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:23:21,019 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-11 20:23:38,286 [INFO] Wczytano grę: użytkownik=ZiQu, slot=5
+2025-06-11 20:23:38,287 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 5 – Wczytano zapis.
+2025-06-11 20:24:15,230 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:24:15,231 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-11 20:24:33,495 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:24:47,819 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:25:02,657 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:25:17,627 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:25:33,290 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:25:49,360 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:26:06,907 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:38:57,088 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:38:57,093 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-11 20:39:34,756 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2
+2025-06-11 20:39:41,498 [INFO] Wczytano grę: użytkownik=ZiQu, slot=5
+2025-06-11 20:39:41,498 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 5 – Wczytano zapis.
+2025-06-12 16:09:09,436 [INFO] [MENU] Gracz ZiQu zakończył program.
+2025-06-12 17:43:36,165 [INFO] Wczytano grę: użytkownik=ZiQu, slot=2
+2025-06-12 17:43:36,167 [INFO] [LOAD MENU] Gracz: ZiQu, Slot: 2 – Wczytano zapis.
+2025-06-12 17:44:14,529 [INFO] Zapisano grę: użytkownik=ZiQu, slot=2

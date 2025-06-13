@@ -1,0 +1,11 @@
+{
+  "mode": "Easy",
+  "starting_gold": 140,
+  "starting_lives": 25,
+  "hp_scale_per_wave": 0.1,
+  "reward_scale_per_wave": 0.03,
+  "num_waves": 20,
+  "delay_step": 2,
+  "sfx_volume": 0.01,
+  "music_volume": 0.01
+}
