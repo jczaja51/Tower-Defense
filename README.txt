@@ -1,6 +1,9 @@
 Konsolowy Tower Defense
 
-Tower Defense to strategiczna gra, w której gracz broni swojej bazy przed falami przeciwników poruszających się po wyznaczonej ścieżce. Gracz buduje różne rodzaje wież obronnych, które automatycznie atakują zbliżających się wrogów. Każda wieża ma unikalne właściwości, zasięg ataku, szybkość strzelania oraz koszt. Przeciwnicy różnią się statystykami (zdrowie, szybkość, odporność na określone typy ataków) i z każdą falą stają się silniejsi. Gra wykorzystuje reprezentację planszy za pomocą znaków ASCII, z różnymi symbolami dla wież, przeciwników i ścieżek. System ekonomiczny pozwala zdobywać złoto za pokonanych wrogów i wydawać je na budowę nowych wież lub ulepszanie istniejących. Gracz musi strategicznie planować rozmieszczenie wież, zarządzać ograniczonymi zasobami i adaptować strategię do zmieniających się warunków, aby przetrwać jak najwięcej fal przeciwników.
+Tower Defense to strategiczna gra, w której gracz broni swojej bazy przed falami przeciwników poruszających się po wyznaczonej ścieżce. Gracz buduje różne rodzaje wież obronnych, które automatycznie atakują zbliżających się wrogów.
+Każda wieża ma unikalne właściwości, zasięg ataku, szybkość strzelania oraz koszt. Przeciwnicy różnią się statystykami (zdrowie, szybkość, odporność na określone typy ataków) i z każdą falą stają się silniejsi. 
+Gra wykorzystuje reprezentację planszy za pomocą znaków ASCII, z różnymi symbolami dla wież, przeciwników i ścieżek. System ekonomiczny pozwala zdobywać złoto za pokonanych wrogów i wydawać je na budowę nowych wież lub ulepszanie istniejących. 
+Gracz musi strategicznie planować rozmieszczenie wież, zarządzać ograniczonymi zasobami i adaptować strategię do zmieniających się warunków, aby przetrwać jak najwięcej fal przeciwników.
 
 
 Funkcje gry
