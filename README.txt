@@ -8,21 +8,21 @@ Funkcje gry
 
 -Wieże: 5 typów wież, każda z własną specjalną zdolnością.
 
--Ulepszanie: Wieże można ulepszać (lepsze statystyki, większy zasięg, nowe efekty).
+-Ulepszanie: Wieże można ulepszać.
 
--Przeciwnicy: Kilka rodzajów wrogów (m.in. gobliny, orki, smoki, bossowie), z różnymi cechami i odpornościami.
+-Przeciwnicy: Kilka rodzajów wrogów, z różnymi cechami i odpornościami.
 
--Ranking: Najlepsze wyniki zapisywane są w bazie (możesz pobijać swoje i cudze rekordy).
+-Ranking: Najlepsze wyniki zapisywane są w bazie.
 
--Osiągnięcia: Trzy podstawowe osiągnięcia (100 pokonanych, 1000 zł, 20 wież).
+-Osiągnięcia: Trzy podstawowe osiągnięcia 100 pokonanych, 1000 zł, 20 wież.
 
 -Eksport statystyk: Wyniki możesz zapisać do pliku CSV, XLSX lub zobaczyć wykres statystyk.
 
--Dźwięk i muzyka: Zmiana głośności efektów i tła muzycznego (z możliwością wyciszenia).
+-Dźwięk i muzyka: Zmiana głośności efektów i tła muzycznego z możliwością wyciszenia.
 
 -Personalizacja: Własne ustawienia trudności i parametrów rozgrywki, wybór mapy, nick gracza.
 
--Interfejs Rich: Kolorowy, dynamiczny UI (panel boczny, powiadomienia, paski HP, efekty emoji).
+-Interfejs: Kolorowy, dynamiczny UI (panel boczny, powiadomienia, paski HP, efekty emoji).
 
 
 
@@ -36,11 +36,14 @@ System: Windows, Linux, MacOS
 2. Instalacja zależności
 Zalecane jest utworzenie wirtualnego środowiska:
 
-python3 -m venv venv
+python3 -m venv venv       # Linux/Mac
 
-source venv/bin/activate   # Linux/Mac
+source venv/bin/activate
 
-venv\Scripts\activate      # Windows
+
+python -m venv venv        # Windows
+
+venv\Scripts\activate
 
 
 Instalacja paczek:
@@ -114,7 +117,7 @@ Każdy typ ma inne statystyki, odporności i czasem własne umiejętności.
 Ranking i osiągnięcia
 
 Ranking widoczny z poziomu menu gry oraz w trakcie.
-Osiągnięcia (pokonani, złoto, zbudowane wieże) widoczne w panelu.
+Osiągnięcia (pokonani, złoto, zbudowane wieże) widoczne w trakcie gry.
 
 
 Eksport i analiza wyników
